@@ -1,0 +1,10 @@
+{
+    "vijay":[
+        {
+            "id":101,
+            "name":"Vijay",
+            "email":"vijay@mail.com",
+            "course":"Full Stack"
+        }
+    ]
+}
